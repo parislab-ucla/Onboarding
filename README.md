@@ -14,5 +14,5 @@ In order to use GitHub and make contributions to your project, a GitHub account 
 
 <b>Step 3: Join PARISLab!</b> When you have a valid GitHub account, please ping Kai Yang or Yuhai Li on Slack so we can add you to the Team!
 
-
-
+## Get Started with Git
+Git is the most widely used control system for code management during software development (it is used in GitHub, of course!). It is beneficial to learn and use Git to manage your project in collaboration with your team. This [offical course](https://lab.github.com/githubtraining/introduction-to-github) on GitHub is a good icebreaker to know how that works on GitHub and learn git commands. Enjoy!
