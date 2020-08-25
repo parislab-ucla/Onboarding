@@ -22,4 +22,4 @@ Please ping Kai Yang or Yuhai Li on Slack regarding the migrating procedure of y
 
 ## Contact
 Webside: http://www.lab-paris.com/    
-Slack: parislab.slack.com
+Slack: [parislab.slack.com](parislab.slack.com)
