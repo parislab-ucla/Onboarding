@@ -14,8 +14,10 @@ In order to use GitHub and make contributions to your project, a GitHub account 
 
 <b>Step 3: Join PARISLab!</b> When you have a valid GitHub account, please ping Kai Yang or Yuhai Li on Slack so we can add you to the Team!
 
+<b>Step 4: Make a Soft Landing on GitHub.</b> If you have already known GitHub well and are clear about how issues, pull requests and branches works, then feel free to skip this step and enjoy your life in the PARIRLab! Otherwise, please take a few minutes to follow this [GitHub Training Course](https://lab.github.com/githubtraining/introduction-to-github) which is a great icebreaker to help you hit the groud running.
+
 ## Get Started with Git
-Git is the most widely used control system for code management during software development (it is used in GitHub, of course!). It is beneficial to learn and use Git to manage your project in collaboration with your team. This [offical course](https://lab.github.com/githubtraining/introduction-to-github) on GitHub is a good icebreaker to know how that works on GitHub and learn git commands. Enjoy!
+Git is the most widely used control system for code management during software development (it is used in GitHub, of course!). It is beneficial to learn and use Git to manage your project locally and in collaboration with your team. There are a couple of great Git training courses online. [Here](https://try.github.io/) is some learning plans by GitHub, if they do not work to you, feel free to explore more resources online. For Mandrarin Chinese speakers, [this](https://www.lanqiao.cn/courses/1035) is a good tutorial to follow. Enjoy!
 
 ## Get Started with Your Project
 Please ping Kai Yang or Yuhai Li on Slack regarding the migrating procedure of your project to PARISLab codebase. Depending on if you have deployed your project on GitHub and the code quality, we may decide to directly import your existing project here or create a new repository.
