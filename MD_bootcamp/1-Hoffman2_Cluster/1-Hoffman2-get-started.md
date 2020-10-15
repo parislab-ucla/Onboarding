@@ -40,10 +40,10 @@ Note that Hoffman2 can not only run MD simution, but also other scripts (i.e., M
 
 
 ## Data transfer
-check [this page](https://www.hoffman2.idre.ucla.edu/Using-H2/Data-transfer.html#) for more information
-1. If you are familiar with linux command, you can use it
-2. If you prefer File Explore or Finder style, you need to download a tool.
-   I recommend FileZilla (example below), but you can use CyberDuck
+Check [this page](https://www.hoffman2.idre.ucla.edu/Using-H2/Data-transfer.html#) for more information
+1. If you are familiar with linux command, you can skip the following
+2. If you prefer File Explore (Windows) or Finder (Mac OS) style, you need to download a tool.  
+   I recommend FileZilla (example below), but you can use CyberDuck.
 3. Download [FileZilla](https://filezilla-project.org/)
 4. To connect to your Hoffman2 account
    1. Go >File > Site Manager
@@ -52,10 +52,10 @@ check [this page](https://www.hoffman2.idre.ucla.edu/Using-H2/Data-transfer.html
    4. Enter your user name (everything before @)
    5. Enter group password (reset password)
    6. Click Connect
-5. Now, you will be able to transfer files between your own local machine and Hoffman node, just drag them. 
+5. Now, you will be able to transfer files between your own local machine and Hoffman node, just dragging them. 
 
 
-## congratulations!
+## Congratulations!
 
    
 
