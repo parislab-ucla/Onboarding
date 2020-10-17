@@ -22,6 +22,11 @@ Git is the most widely used control system for code management during software d
 ## Get Started with Your Project
 Please ping Kai Yang or Yuhai Li on Slack or create an issue on this repo regarding the migrating procedure of your project to PARISLab codebase. Depending on if you have deployed your project on GitHub and the code quality, we may decide to directly import your existing project here or create a new repository.
 
-## Contact
-Webside: http://www.lab-paris.com/    
-Slack: [parislab.slack.com](https://parislab.slack.com)
+# Study Resources
+* [Machine Learning](machine_learning.md)
+* [Deep Learning](deep_learning.md)
+
+
+# Contact
+* Webside: http://www.lab-paris.com/    
+* Slack: [parislab.slack.com](https://parislab.slack.com)
