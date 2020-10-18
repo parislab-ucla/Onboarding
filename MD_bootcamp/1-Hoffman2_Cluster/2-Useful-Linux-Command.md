@@ -6,7 +6,7 @@ link to **Linux command cheat sheet** is [here](https://files.fosswire.com/2007/
 You can watch Prof.Bauchy's recorded video [here](https://www.youtube.com/watch?v=PUW__yVsYSY&ab_channel=PARISlab%40UCLA), and below is my summary.
 
 ## General hints (Updating...)
-1. Commands are case sensitive (i.e., ls works, but LS does not word)
+1. Commands are case sensitive (i.e., ls works, but LS does not work)
 2. Use 'TAB' to save time  
 for example, if you have two directories are named 'abcde' and 'xyz', you just need to type 'a' then press TAB button, your terminal will show 'abcde' automatically
 3. Frequently check your storage since each account only has limited 20 GB space (See commmand below)
