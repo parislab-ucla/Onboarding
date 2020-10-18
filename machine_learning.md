@@ -23,7 +23,7 @@ This book is written by the author of Keras and introduces deep learning theorie
 [*Dive into Deep Learning*](https://d2l.ai/)    
 ![](https://d2l.ai/_images/front.png)
 
-Written by Amazon AI team. This book is open-source and rich in implementations of deep learning models in various framework (TensorFlow, PyTorch, MXNet).
+Written by Amazon AI team. This book is open-source and rich in implementations of deep learning models in various frameworks (TensorFlow, PyTorch, MXNet).
 
 ## 2. For Experts
 [*Deep Learning*](books/Deep-learning-adaptive-computation-and-machine-learning.pdf)    
