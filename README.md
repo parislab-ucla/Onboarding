@@ -22,13 +22,19 @@ Git is the most widely used control system for code management during software d
 ## Get Started with Your Project
 Please ping Kai Yang or Yuhai Li on Slack or create an issue on this repo regarding the migrating procedure of your project to PARISLab codebase. Depending on if you have deployed your project on GitHub and the code quality, we may decide to directly import your existing project here or create a new repository.
 
-# Study Resources
+# ML_Resources
 Our vision is to give everyone the chance to get involved in this field and get self-motivated as a practitioner. Please keep in mind, machine learning is a practical subject. So, the best way to be an expert is to <b>get your hands dirty</b> and actively solve real-world problems.    
 
-The following is the list of your recommended books. These books are used for internal training only, please do not share it anywhere else. 
+The following is the list of your recommended books. These books are used for internal training only, please do **NOT share** it anywhere else. 
 * [Machine Learning](machine_learning.md#Machine-Learning)
 * [Deep Learning](machine_learning.md#Deep-Learning)
 
+# MD_bootcamp
+The overall goal of this project is to provide an easy and quick experience about how to run Molecular Dynamics (MD) simulations with [LAMMPS](https://lammps.sandia.gov/) package on [Hoffman2 Cluster](https://www.hoffman2.idre.ucla.edu/About/Mission-and-governance.html) (@UCLA).   
+
+This project contains basic tutorials about Hoffman2 Cluster (from creating an account to sbumitting jobs) and MD simulation (from theoretical knowledge to LAMMPS scripts). We also include some example sets for you to practice.
+
+ We hope you will have a fruitful experice on MD.
 
 # Contact
 * Webside: http://www.lab-paris.com/    
