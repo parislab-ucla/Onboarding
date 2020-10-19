@@ -41,6 +41,7 @@ cd ../Dir4          # Change to parent directory then enter Dir5 directory
 - Remove directory
 ```
 rmdir YourDirName
+rm -rf YourDirName # More common option
 ```
 
 - Copy, move(rename) files  
