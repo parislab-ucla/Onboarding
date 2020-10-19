@@ -4,7 +4,7 @@ Finally, you are going to submit your first simulation!!!
 There are diffent ways you can submit your job to Hoffman2 Cluster, let's first try the very basic one, and I will show you a better way to do it for next exercise.
 
 ## Download input files and upload to Hoffman2
-Please go to ~/MD_bootcamp/5-Practice/1-SiO2 in this GitHub repo, and download all 4 files.  
+Please go [here](../5-Practice/1-SiO2), and download all 4 files.  
 This time, you do not need to understand codes or text in these files, but I will try to organize a zoom session to explain to you.
 
 - Create a folder on your local machine, like 'Demo', and downlad and move all 4 files in Demo
