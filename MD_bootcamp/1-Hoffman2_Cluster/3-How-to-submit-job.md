@@ -4,7 +4,9 @@ Finally, you are going to submit your first simulation!!!
 There are diffent ways you can submit your job to Hoffman2 Cluster, let's first try the very basic one, and I will show you a better way to do it for next exercise.
 
 ## Download input files and upload to Hoffman2
-Please go [here](../5-Practice/1-SiO2), and download all 4 files.  
+Please go [here](../5-Practice/1-SiO2), and download all 4 files.   
+- （If you need a faster simulation, please use files [here](../5-Practice/2-SiO2_faster))
+
 This time, you do not need to understand codes or text in these files, but I will try to organize a zoom session to explain to you.
 
 - Create a folder on your local machine, like 'Demo', and downlad and move all 4 files in Demo
@@ -34,7 +36,7 @@ Enter the 'Demo' directory. (hint: cd Demo)
 
 Watch the second part (**between 12:25--19:04**) of Prof.Bauchy's recorded video [here](https://www.youtube.com/watch?v=PUW__yVsYSY&ab_channel=PARISlab%40UCLA).  
 Before following his steps, you *NEED* to read below
-- For simulation time and number of tasks (cores), you can choose 16 hours and 4 cores. (I forgot how long it should take, but this amount should be enough.)
+- For simulation time and number of tasks (cores), you can choose **24 hours and 8 cores**. (If your simulation is aborted, you can try a faster simulation [here](../5-Practice/2-SiO2_faster))
 - Please do NOT use lab's private nodes, unless you have permission from your team leader or Prof. Bauchy.
 - You do not need to wait until your job to start because we require more nodes and longer time, and you will receive an email when your job starts and ends.
 
