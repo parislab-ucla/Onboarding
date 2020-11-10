@@ -15,9 +15,11 @@ TODO
 TODO
 
 ## Set up LAMMPS and understand the submission script
+(This is for everyone.)
 Read this [file](../2-LAMMPS_and_MD/Set_up_LAMMPS_and_understand_the_submission_script.md) carefully to learn basic knowledge about submission script. 
 
 ## Submit your job using qsub and script
+(This is for everyone.)
 Follow the instructions in this [file](../2-LAMMPS_and_MD/Submit_your_job_using_qsub_and_script.md) to learn how to start a simulation using qsub.
 
 ## Compute the stiffness of simulated glass
