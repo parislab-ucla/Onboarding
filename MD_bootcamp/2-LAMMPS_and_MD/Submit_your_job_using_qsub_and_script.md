@@ -13,7 +13,7 @@ cd LAMMPS_hoffman2
 ```
 chmod +x lmp_shared_voro
 ```
-- Type 'ls'。 Now, you should see the name of lmp_shared_voro in a different color (most case, it should be green), which means now it becomes an executable file.
+- Type 'ls'. Now, you should see the name of lmp_shared_voro in a different color (most case, it should be green), which means now it becomes an executable file.
 
 
 ## Run your simulation 
