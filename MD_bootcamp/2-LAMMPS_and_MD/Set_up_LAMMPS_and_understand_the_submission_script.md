@@ -51,5 +51,5 @@ mpirun -np 8 ~/LAMMPS_hoffman2/lmp_shared_voro -i in.glass >& in.glass.output.$J
 :arrow_up: Very important.This is a command used to run an MPI program. What you need to notice are:  
 - The number 8 is the number of processes. Keep it the same as your requested number of nodes (-pe shared 8)!! For example, if you want to request more nodes, you have to change the number here and before.
 - ~/LAMMPS_hoffman2/lmp_shared_voro: This means we will use the lmp_shared_voro from LAMMPS_hoffman2 folder in your login directory. This is why you should not change the folder name before.
-- :warning: You HAVE TO make lmp_share_voro package **executable** (see next file to know how to do that)
+- :warning: You HAVE TO make lmp_share_voro package **executable** (see next [file](~/2-LAMMPS_and_MD/Submit_your_job_using_qsub_and_script.md) to know how to do that)
 - in.glass >& in.glass.output.$JOB_ID This means Hoffman2 will read <in.glass> file and output <in.glass.output.$JOB_ID> file. Need to change the name if you have different name for your input file.
