@@ -1,0 +1,54 @@
+# CAS variable timestep 
+
+units 		real
+dimension 	3
+processors 	* * *
+boundary 	p p p
+atom_style 	charge
+
+# configuration
+read_data       CAS.dat
+
+# potential
+include		pot.mod
+
+# outputs
+thermo 		100
+thermo_style    custom step etotal temp press pe vol lx dt
+dump            2 all custom 1000 md.lammpstrj id type x y z
+
+# initial minimisation
+minimize        1.0e-10 1.0e-10 100000 100000
+velocity        all create 300.0 5812775 dist gaussian
+
+fix             1 all nvt temp 300 300 100 
+run             100000
+unfix           1
+
+fix             1 all npt temp 300 300 100 iso 0 0 1000
+run             100000
+unfix           1
+
+fix             1 all npt temp 5000 5000 100 iso 0 0 1000
+run             200000
+unfix           1
+
+write_data	liquid.dat
+write_restart   liquid.rest
+
+# cool
+fix             1 all npt temp 5000 300 100 iso 0 0 1000
+run             4700000   	
+unfix           1
+
+# relax
+fix             1 all npt temp 300 300 100 iso 0 0 1000
+run             100000
+unfix           1
+
+fix             1 all npt temp 300 300 100 iso 0 0 1000
+run             100000
+unfix           1
+
+write_data	glass.dat
+write_restart	glass.rest  
