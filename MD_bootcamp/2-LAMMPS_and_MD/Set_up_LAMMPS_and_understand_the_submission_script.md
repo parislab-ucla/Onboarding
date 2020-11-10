@@ -7,7 +7,7 @@ To avoid that, we want to have a fixed and more controled version of LAMMPS for 
 Now, you can 
 - Upload the 'LAMMPS_hoffman2' folder to your Hoffman2 **personal login directory**, do NOT change the folder name.
 
-Then, after downloading [3-CAS_551035]((../5-Practice/3-CAS_551035_simu)), open the file named 'run.hm2.shared' using Notepad++ or TextEdit (Mac OS).  
+Then, after downloading [3-CAS_551035](../5-Practice/3-CAS_551035_simu), open the file named 'run.hm2.shared' using Notepad++ or TextEdit (Mac OS).  
 This is the file we use to run all other files.
 
 If you are interested in more details about this batch job submission, you can read [here](https://www.hoffman2.idre.ucla.edu/Using-H2/Computing/Computing.html#submitting-batch-jobs).
@@ -32,7 +32,7 @@ To get a quick understanding about this file, lets read important commands line 
 :arrow_up: Very important! -l is used to request the type of resouces to be used. In this case, we use 2G memory (h_data=2G), maximum 24 hours rumtime (h_rt=24:00:00) and request a node in exlusive mode (exclusive), which means all of tis cores and memory. Here are some tips:
 - The maximum runtime is 24 hrs on public nodes. If you have long simulation, you may need to ask private node or break it down into smaller simualtions.
 - The more memory or runtime or exclusive you ask, you may need to wait longer in the queue but have a better computing performance.
-- If you want to know more about requesting, please go [here](https://www.hoffman2.idre.ucla.edu/Using-H2/Computing/Computing.html#jobs-and-resources)
+- If you want to know more about requesting, please check [here](https://www.hoffman2.idre.ucla.edu/Using-H2/Computing/Computing.html#jobs-and-resources)
 ```
 #$ -m bea
 ```
