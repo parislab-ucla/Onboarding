@@ -26,6 +26,7 @@ Please ping Kai Yang or Yuhai Li on Slack or create an issue on this repo regard
 Our vision is to give everyone the chance to get involved in this field and get self-motivated as a practitioner. Please keep in mind, machine learning is a practical subject. So, the best way to be an expert is to <b>get your hands dirty</b> and actively solve real-world problems.    
 
 The following is the list of our recommended books. These books are used for internal training only, please do not share them anywhere else. 
+* [Python](ML_resource/README.md#Python)
 * [Machine Learning](ML_resource/README.md#Machine-Learning)
 * [Deep Learning](ML_resource/README.md#Deep-Learning)
 
